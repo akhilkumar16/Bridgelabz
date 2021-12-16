@@ -1,0 +1,14 @@
+C:\Users\Kranthi\Desktop\Bridgelabz\dailywages\dailywages\bin\Debug\netcoreapp3.1\dailywages.exe
+C:\Users\Kranthi\Desktop\Bridgelabz\dailywages\dailywages\bin\Debug\netcoreapp3.1\dailywages.deps.json
+C:\Users\Kranthi\Desktop\Bridgelabz\dailywages\dailywages\bin\Debug\netcoreapp3.1\dailywages.runtimeconfig.json
+C:\Users\Kranthi\Desktop\Bridgelabz\dailywages\dailywages\bin\Debug\netcoreapp3.1\dailywages.runtimeconfig.dev.json
+C:\Users\Kranthi\Desktop\Bridgelabz\dailywages\dailywages\bin\Debug\netcoreapp3.1\dailywages.dll
+C:\Users\Kranthi\Desktop\Bridgelabz\dailywages\dailywages\bin\Debug\netcoreapp3.1\dailywages.pdb
+C:\Users\Kranthi\Desktop\Bridgelabz\dailywages\dailywages\obj\Debug\netcoreapp3.1\dailywages.csproj.AssemblyReference.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\dailywages\dailywages\obj\Debug\netcoreapp3.1\dailywages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kranthi\Desktop\Bridgelabz\dailywages\dailywages\obj\Debug\netcoreapp3.1\dailywages.AssemblyInfoInputs.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\dailywages\dailywages\obj\Debug\netcoreapp3.1\dailywages.AssemblyInfo.cs
+C:\Users\Kranthi\Desktop\Bridgelabz\dailywages\dailywages\obj\Debug\netcoreapp3.1\dailywages.csproj.CoreCompileInputs.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\dailywages\dailywages\obj\Debug\netcoreapp3.1\dailywages.dll
+C:\Users\Kranthi\Desktop\Bridgelabz\dailywages\dailywages\obj\Debug\netcoreapp3.1\dailywages.pdb
+C:\Users\Kranthi\Desktop\Bridgelabz\dailywages\dailywages\obj\Debug\netcoreapp3.1\dailywages.genruntimeconfig.cache
