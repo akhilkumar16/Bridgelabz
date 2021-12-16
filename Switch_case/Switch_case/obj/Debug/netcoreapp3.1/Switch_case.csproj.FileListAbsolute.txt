@@ -1,0 +1,14 @@
+C:\Users\Kranthi\Desktop\Bridgelabz\Switch_case\Switch_case\bin\Debug\netcoreapp3.1\Switch_case.exe
+C:\Users\Kranthi\Desktop\Bridgelabz\Switch_case\Switch_case\bin\Debug\netcoreapp3.1\Switch_case.deps.json
+C:\Users\Kranthi\Desktop\Bridgelabz\Switch_case\Switch_case\bin\Debug\netcoreapp3.1\Switch_case.runtimeconfig.json
+C:\Users\Kranthi\Desktop\Bridgelabz\Switch_case\Switch_case\bin\Debug\netcoreapp3.1\Switch_case.runtimeconfig.dev.json
+C:\Users\Kranthi\Desktop\Bridgelabz\Switch_case\Switch_case\bin\Debug\netcoreapp3.1\Switch_case.dll
+C:\Users\Kranthi\Desktop\Bridgelabz\Switch_case\Switch_case\bin\Debug\netcoreapp3.1\Switch_case.pdb
+C:\Users\Kranthi\Desktop\Bridgelabz\Switch_case\Switch_case\obj\Debug\netcoreapp3.1\Switch_case.csproj.AssemblyReference.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\Switch_case\Switch_case\obj\Debug\netcoreapp3.1\Switch_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kranthi\Desktop\Bridgelabz\Switch_case\Switch_case\obj\Debug\netcoreapp3.1\Switch_case.AssemblyInfoInputs.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\Switch_case\Switch_case\obj\Debug\netcoreapp3.1\Switch_case.AssemblyInfo.cs
+C:\Users\Kranthi\Desktop\Bridgelabz\Switch_case\Switch_case\obj\Debug\netcoreapp3.1\Switch_case.csproj.CoreCompileInputs.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\Switch_case\Switch_case\obj\Debug\netcoreapp3.1\Switch_case.dll
+C:\Users\Kranthi\Desktop\Bridgelabz\Switch_case\Switch_case\obj\Debug\netcoreapp3.1\Switch_case.pdb
+C:\Users\Kranthi\Desktop\Bridgelabz\Switch_case\Switch_case\obj\Debug\netcoreapp3.1\Switch_case.genruntimeconfig.cache
