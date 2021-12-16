@@ -1,0 +1,14 @@
+C:\Users\Kranthi\Desktop\Bridgelabz\Attendance\Attendance\bin\Debug\netcoreapp3.1\Attendance.exe
+C:\Users\Kranthi\Desktop\Bridgelabz\Attendance\Attendance\bin\Debug\netcoreapp3.1\Attendance.deps.json
+C:\Users\Kranthi\Desktop\Bridgelabz\Attendance\Attendance\bin\Debug\netcoreapp3.1\Attendance.runtimeconfig.json
+C:\Users\Kranthi\Desktop\Bridgelabz\Attendance\Attendance\bin\Debug\netcoreapp3.1\Attendance.runtimeconfig.dev.json
+C:\Users\Kranthi\Desktop\Bridgelabz\Attendance\Attendance\bin\Debug\netcoreapp3.1\Attendance.dll
+C:\Users\Kranthi\Desktop\Bridgelabz\Attendance\Attendance\bin\Debug\netcoreapp3.1\Attendance.pdb
+C:\Users\Kranthi\Desktop\Bridgelabz\Attendance\Attendance\obj\Debug\netcoreapp3.1\Attendance.csproj.AssemblyReference.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\Attendance\Attendance\obj\Debug\netcoreapp3.1\Attendance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kranthi\Desktop\Bridgelabz\Attendance\Attendance\obj\Debug\netcoreapp3.1\Attendance.AssemblyInfoInputs.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\Attendance\Attendance\obj\Debug\netcoreapp3.1\Attendance.AssemblyInfo.cs
+C:\Users\Kranthi\Desktop\Bridgelabz\Attendance\Attendance\obj\Debug\netcoreapp3.1\Attendance.csproj.CoreCompileInputs.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\Attendance\Attendance\obj\Debug\netcoreapp3.1\Attendance.dll
+C:\Users\Kranthi\Desktop\Bridgelabz\Attendance\Attendance\obj\Debug\netcoreapp3.1\Attendance.pdb
+C:\Users\Kranthi\Desktop\Bridgelabz\Attendance\Attendance\obj\Debug\netcoreapp3.1\Attendance.genruntimeconfig.cache
