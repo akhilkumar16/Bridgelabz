@@ -1,0 +1,14 @@
+C:\Users\Kranthi\Desktop\Bridgelabz\Month_wage\Month_wage\bin\Debug\netcoreapp3.1\Month_wage.exe
+C:\Users\Kranthi\Desktop\Bridgelabz\Month_wage\Month_wage\bin\Debug\netcoreapp3.1\Month_wage.deps.json
+C:\Users\Kranthi\Desktop\Bridgelabz\Month_wage\Month_wage\bin\Debug\netcoreapp3.1\Month_wage.runtimeconfig.json
+C:\Users\Kranthi\Desktop\Bridgelabz\Month_wage\Month_wage\bin\Debug\netcoreapp3.1\Month_wage.runtimeconfig.dev.json
+C:\Users\Kranthi\Desktop\Bridgelabz\Month_wage\Month_wage\bin\Debug\netcoreapp3.1\Month_wage.dll
+C:\Users\Kranthi\Desktop\Bridgelabz\Month_wage\Month_wage\bin\Debug\netcoreapp3.1\Month_wage.pdb
+C:\Users\Kranthi\Desktop\Bridgelabz\Month_wage\Month_wage\obj\Debug\netcoreapp3.1\Month_wage.csproj.AssemblyReference.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\Month_wage\Month_wage\obj\Debug\netcoreapp3.1\Month_wage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kranthi\Desktop\Bridgelabz\Month_wage\Month_wage\obj\Debug\netcoreapp3.1\Month_wage.AssemblyInfoInputs.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\Month_wage\Month_wage\obj\Debug\netcoreapp3.1\Month_wage.AssemblyInfo.cs
+C:\Users\Kranthi\Desktop\Bridgelabz\Month_wage\Month_wage\obj\Debug\netcoreapp3.1\Month_wage.csproj.CoreCompileInputs.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\Month_wage\Month_wage\obj\Debug\netcoreapp3.1\Month_wage.dll
+C:\Users\Kranthi\Desktop\Bridgelabz\Month_wage\Month_wage\obj\Debug\netcoreapp3.1\Month_wage.pdb
+C:\Users\Kranthi\Desktop\Bridgelabz\Month_wage\Month_wage\obj\Debug\netcoreapp3.1\Month_wage.genruntimeconfig.cache
