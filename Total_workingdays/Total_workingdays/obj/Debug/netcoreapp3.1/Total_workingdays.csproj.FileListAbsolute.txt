@@ -1,0 +1,14 @@
+C:\Users\Kranthi\Desktop\Bridgelabz\Total_workingdays\Total_workingdays\bin\Debug\netcoreapp3.1\Total_workingdays.exe
+C:\Users\Kranthi\Desktop\Bridgelabz\Total_workingdays\Total_workingdays\bin\Debug\netcoreapp3.1\Total_workingdays.deps.json
+C:\Users\Kranthi\Desktop\Bridgelabz\Total_workingdays\Total_workingdays\bin\Debug\netcoreapp3.1\Total_workingdays.runtimeconfig.json
+C:\Users\Kranthi\Desktop\Bridgelabz\Total_workingdays\Total_workingdays\bin\Debug\netcoreapp3.1\Total_workingdays.runtimeconfig.dev.json
+C:\Users\Kranthi\Desktop\Bridgelabz\Total_workingdays\Total_workingdays\bin\Debug\netcoreapp3.1\Total_workingdays.dll
+C:\Users\Kranthi\Desktop\Bridgelabz\Total_workingdays\Total_workingdays\bin\Debug\netcoreapp3.1\Total_workingdays.pdb
+C:\Users\Kranthi\Desktop\Bridgelabz\Total_workingdays\Total_workingdays\obj\Debug\netcoreapp3.1\Total_workingdays.csproj.AssemblyReference.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\Total_workingdays\Total_workingdays\obj\Debug\netcoreapp3.1\Total_workingdays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kranthi\Desktop\Bridgelabz\Total_workingdays\Total_workingdays\obj\Debug\netcoreapp3.1\Total_workingdays.AssemblyInfoInputs.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\Total_workingdays\Total_workingdays\obj\Debug\netcoreapp3.1\Total_workingdays.AssemblyInfo.cs
+C:\Users\Kranthi\Desktop\Bridgelabz\Total_workingdays\Total_workingdays\obj\Debug\netcoreapp3.1\Total_workingdays.csproj.CoreCompileInputs.cache
+C:\Users\Kranthi\Desktop\Bridgelabz\Total_workingdays\Total_workingdays\obj\Debug\netcoreapp3.1\Total_workingdays.dll
+C:\Users\Kranthi\Desktop\Bridgelabz\Total_workingdays\Total_workingdays\obj\Debug\netcoreapp3.1\Total_workingdays.pdb
+C:\Users\Kranthi\Desktop\Bridgelabz\Total_workingdays\Total_workingdays\obj\Debug\netcoreapp3.1\Total_workingdays.genruntimeconfig.cache
